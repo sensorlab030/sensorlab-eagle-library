@@ -3,6 +3,12 @@
 Eagle library for all parts that we cannot find in other (common) Eagle
 libraries.
 
+## Parts
+
+Complete list of parts, and link to Octopart page
+
+* [Pro Signal MJ-2135 3.5mm PCB Mount phone audio connector, 4 connectors](https://octopart.com/mj-2135-pro+signal-42010560)
+
 ## License
 
 This work is provided for others to use under the Creative Commons Legal 
